@@ -13,12 +13,11 @@
       <li>To create a directory named my-folder</li>
       <ul><li>mkdir my-folder</li></ul>
       <li>To create a file named index.html</li>
-      <ul><li>tourch index.html</li></ul>
+      <ul><li>touch index.html</li></ul>
        <li>To check your current working directory</li>
       <ul><li>pwd</li></ul>
       <li>To list the contents of your current working directory</li>
       <ul><li>ls</li></ul>
     </ol>
-    <script src="script.js"></script>
   </body>
 </html>
